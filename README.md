@@ -1,1 +1,1 @@
-# kampani.gradient-background-generator
+# background-generator
